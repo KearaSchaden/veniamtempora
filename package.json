@@ -1,0 +1,26 @@
+{
+  "name": "veniamtempora",
+  "version": "1.0.0",
+  "description": "A partial implementation of java.util.Random for JS",
+  "main": "lib/",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KearaSchaden/veniamtempora.git"
+  },
+  "keywords": [
+    "java",
+    "random",
+    "prng"
+  ],
+  "author": "JerrySchimmel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KearaSchaden/veniamtempora.git/issues"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
